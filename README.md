@@ -1,2 +1,3 @@
 # pnutru.github.io
-This is for hw4
+This is for HW4:Multi-Column, Responsiveness
+
